@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeMay", "XeMay\XeMay.csproj", "{CCECBF0D-CE7A-4299-8C9D-35ED56B84FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCECBF0D-CE7A-4299-8C9D-35ED56B84FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCECBF0D-CE7A-4299-8C9D-35ED56B84FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCECBF0D-CE7A-4299-8C9D-35ED56B84FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCECBF0D-CE7A-4299-8C9D-35ED56B84FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EEDB039-F6D3-422F-A545-85132B62FE58}
+	EndGlobalSection
+EndGlobal

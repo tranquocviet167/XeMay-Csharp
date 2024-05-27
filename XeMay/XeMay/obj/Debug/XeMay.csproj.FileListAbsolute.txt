@@ -1,0 +1,10 @@
+E:\C#HocLai\XeMay\XeMay\bin\Debug\XeMay.exe.config
+E:\C#HocLai\XeMay\XeMay\bin\Debug\XeMay.exe
+E:\C#HocLai\XeMay\XeMay\bin\Debug\XeMay.pdb
+E:\C#HocLai\XeMay\XeMay\obj\Debug\XeMay.csproj.AssemblyReference.cache
+E:\C#HocLai\XeMay\XeMay\obj\Debug\XeMay.Form1.resources
+E:\C#HocLai\XeMay\XeMay\obj\Debug\XeMay.Properties.Resources.resources
+E:\C#HocLai\XeMay\XeMay\obj\Debug\XeMay.csproj.GenerateResource.cache
+E:\C#HocLai\XeMay\XeMay\obj\Debug\XeMay.csproj.CoreCompileInputs.cache
+E:\C#HocLai\XeMay\XeMay\obj\Debug\XeMay.exe
+E:\C#HocLai\XeMay\XeMay\obj\Debug\XeMay.pdb
